@@ -13,7 +13,7 @@
     {
       "name": "day-01 test",
       "setup": "sudo -H pip3 install pytest",
-      "run": "cd day00 && wget https://bitgarden.tech/test_day00.py && pytest",
+      "run": "cd day00 && wget https://bitgarden.tech/test_day01.py && pytest",
       "input": "",
       "output": "",
       "comparison": "exact",
